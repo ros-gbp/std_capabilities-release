@@ -1,3 +1,26 @@
+## std_capabilities (melodic) - 0.1.0-0
+
+The packages in the `std_capabilities` repository were released into the `melodic` distro by running `/Users/william/.pyenv/versions/2.7.15/bin/bloom-release -r melodic -t melodic std_capabilities` on `Mon, 17 Dec 2018 22:02:08 -0000`
+
+The `std_capabilities` package was released.
+
+Version of package(s) in repository `std_capabilities`:
+
+- upstream repository: https://github.com/osrf/std_capabilities.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## std_capabilities (lunar) - 0.1.0-0
 
 The packages in the `std_capabilities` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release -r lunar -t lunar std_capabilities` on `Mon, 27 Feb 2017 23:24:03 -0000`
